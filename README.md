@@ -1,5 +1,5 @@
 # Natural language processing using LSTM
-Sentiment Analysis of Twitter US Airline Customers
+
 ## Project Title: Sentiment Analysis of Twitter US Airline Customers with LSTM
 ## Key Contributions:
     1. Implemented LSTM for effective sentiment analysis of Twitter data.
